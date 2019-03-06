@@ -7,5 +7,6 @@ Written under Win32 environment.
 
 ## Introduction
 <img src="https://github.com/jeannineshiu/Defense-Game/blob/master/intro.png" width = "600" height = "400" alt="intro.png" align=center />
+
 ## Structure
 <img src="https://github.com/jeannineshiu/Defense-Game/blob/master/struct.png" width = "600" height = "400" alt="struct.png" align=center />
