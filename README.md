@@ -1,5 +1,5 @@
 # Defense-Game
-A final project for Assembly Language class.
+A group(2 people) final project for Assembly Language class.
 Written under Win32 environment.
 
 ## Game Screenshot
