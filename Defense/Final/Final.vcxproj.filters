@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="來源檔案">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="main.asm">
+      <Filter>來源檔案</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Final.rc">
+      <Filter>資源檔</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Image\character.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\character_mask.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\enemy.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\enemy_mask.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\bullet.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\bullet_mask.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\castle.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\castle_mask.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\life.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\life_mask.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\game_over.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\game_over_mask.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\win.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\win_mask.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\background.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\enemy1.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\enemy1_mask.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\enemy2.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\enemy2_mask.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\item.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\item_mask.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="image\icon.ico">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\item1.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Image\item1_mask.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\cursor.cur">
+      <Filter>資源檔</Filter>
+    </None>
+  </ItemGroup>
+</Project>
